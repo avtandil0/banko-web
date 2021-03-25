@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Register/index.js"],"names":["Register"],"mappings":"yHAUeA,UARE,WACf,OACE","file":"static/js/1.b3ec2d23.chunk.js","sourcesContent":["\r\n\r\nconst Register = () => {\r\n  return (\r\n    <div>\r\n        Register page\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default Register;\r\n"],"sourceRoot":""}
